@@ -1,4 +1,6 @@
 
+Intro 
+-----
 Two quotes stuck out for me reading the papers submitted to the Rebooting the Web of Trust conference - both in The PGP Paradigm. 
 "Trust trust is specialized trust not real-world trust."
 "The trust[italics] portion of the Web of Trust relies completely on the user-specific trust marking and the weights that the key holder places on keys." 
