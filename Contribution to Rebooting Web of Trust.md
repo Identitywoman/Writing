@@ -8,8 +8,8 @@ Two quotes stuck out for me reading the papers submitted to the Rebooting the We
 
 These quotes raise for me questions about how to keep the conversations and instantiations of "the web of trust" from becomming hopelessly confusing with different definitions of Trust, trust[italics], and trust.  Each being used and understood to mean different things. Might other terms be more appropriate to consider for some aspects such as **Web of Connection? or Web of Knowing?**
  
- Trust Frameworks?
- -----------------
+Trust Frameworks?
+-----------------
 During the conversations surrounding NSTIC (the National Strategy for Trusted Identities in Cyberspace) the phrase **"Trust Framework"** came into my lexicon. I did what I do with all technical discussions I participate actively in - I worked hard to figure out on a deep level what was actually meant by this phrase - what is it? how do trust framworks function? And from there I returned to my center of attention:  What are the implications for end-users?   
 
 The phrase "Trust Frameworks" seems particularly pervasive and not yet defined well.  After struggling for several months it became clear to me… that it is a technology/policy(legal) sandwich that is used to allow large complex networks/multi-party systems to function. In the identity world this was called a Federation.  
