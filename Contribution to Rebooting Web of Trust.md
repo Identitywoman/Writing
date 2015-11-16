@@ -3,6 +3,7 @@ Intro
 -----
 Two quotes stuck out for me reading the papers submitted to the Rebooting the Web of Trust conference - both in The PGP Paradigm. 
 >"Trust trust is specialized trust not real-world trust."
+
 >"The trust[italics] portion of the Web of Trust relies completely on the user-specific trust marking and the weights that the key holder places on keys." 
 
 These quotes raise for me questions about how to keep the conversations and instantiations of "the web of trust" from becomming hopelessly confusing with different definitions of Trust, trust[italics], and trust.  Each being used and understood to mean different things. Might other terms be more appropriate to consider for some aspects such as **Web of Connection? or Web of Knowing?**
